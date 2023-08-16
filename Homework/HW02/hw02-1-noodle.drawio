@@ -280,14 +280,13 @@
                 <mxCell id="33" value="ตักบะหมี่ใส่ถ้วยที่่&lt;br&gt;เตรียมวไ้ว้" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mvioNwK95yMqdUQ73LqQ-36">
                     <mxGeometry x="260" y="900" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="38" value="" style="edgeStyle=none;html=1;fontSize=10;" edge="1" parent="mvioNwK95yMqdUQ73LqQ-36" source="35" target="37">
-                    <mxGeometry relative="1" as="geometry"/>
+                <mxCell id="38" value="" style="edgeStyle=none;html=1;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mvioNwK95yMqdUQ73LqQ-36" source="35" target="mvioNwK95yMqdUQ73LqQ-69">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="320" y="1170" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
                 <mxCell id="35" value="เอาไปให้พี่รับประทาน" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mvioNwK95yMqdUQ73LqQ-36">
                     <mxGeometry x="260" y="1040" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="37" value="เสร็จสิ้น" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="mvioNwK95yMqdUQ73LqQ-36">
-                    <mxGeometry x="270" y="1170" width="100" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="mvioNwK95yMqdUQ73LqQ-70" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;โจทย์ปัญหา&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
                     <mxGeometry x="-732.5" y="320" width="665" height="310" as="geometry"/>
